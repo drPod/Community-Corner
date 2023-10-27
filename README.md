@@ -1,4 +1,4 @@
-# Community Corner
+# Community Corner App
 
 **Links**
 - [Github Repository](https://github.com/drPod/Community-Corner)
